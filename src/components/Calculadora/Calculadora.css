@@ -1,0 +1,38 @@
+    * {
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+    }
+    
+    .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+
+    .form, h2, input, p {
+        display: block;
+        margin-top: 6px;
+    }
+
+    .form, input {
+        height: 40px;
+    }
+
+
+    .form {
+        font-size: 40px;
+    }
+
+        h1 {
+        font-size: 80px;
+    }
+
+
+
+
+
+
